@@ -1,0 +1,199 @@
+C:\Users\wikto\Desktop\odtwarzacz\odtwarzacz\odtwarzacz\bin\Debug\odtwarzacz.exe.config
+C:\Users\wikto\Desktop\odtwarzacz\odtwarzacz\odtwarzacz\bin\Debug\odtwarzacz.exe
+C:\Users\wikto\Desktop\odtwarzacz\odtwarzacz\odtwarzacz\bin\Debug\odtwarzacz.pdb
+C:\Users\wikto\Desktop\odtwarzacz\odtwarzacz\odtwarzacz\obj\Debug\odtwarzacz.csprojAssemblyReference.cache
+C:\Users\wikto\Desktop\odtwarzacz\odtwarzacz\odtwarzacz\obj\Debug\MainWindow.g.cs
+C:\Users\wikto\Desktop\odtwarzacz\odtwarzacz\odtwarzacz\obj\Debug\App.g.cs
+C:\Users\wikto\Desktop\odtwarzacz\odtwarzacz\odtwarzacz\obj\Debug\odtwarzacz_MarkupCompile.cache
+C:\Users\wikto\Desktop\odtwarzacz\odtwarzacz\odtwarzacz\obj\Debug\odtwarzacz_MarkupCompile.lref
+C:\Users\wikto\Desktop\odtwarzacz\odtwarzacz\odtwarzacz\obj\Debug\MainWindow.baml
+C:\Users\wikto\Desktop\odtwarzacz\odtwarzacz\odtwarzacz\obj\Debug\odtwarzacz.g.resources
+C:\Users\wikto\Desktop\odtwarzacz\odtwarzacz\odtwarzacz\obj\Debug\odtwarzacz.Properties.Resources.resources
+C:\Users\wikto\Desktop\odtwarzacz\odtwarzacz\odtwarzacz\obj\Debug\odtwarzacz.csproj.GenerateResource.cache
+C:\Users\wikto\Desktop\odtwarzacz\odtwarzacz\odtwarzacz\obj\Debug\odtwarzacz.csproj.CoreCompileInputs.cache
+C:\Users\wikto\Desktop\odtwarzacz\odtwarzacz\odtwarzacz\obj\Debug\odtwarzacz.exe
+C:\Users\wikto\Desktop\odtwarzacz\odtwarzacz\odtwarzacz\obj\Debug\odtwarzacz.pdb
+C:\Users\wikto\Desktop\Moj odtwarzacz\odtwarzacz\odtwarzacz\bin\Debug\odtwarzacz.exe.config
+C:\Users\wikto\Desktop\Moj odtwarzacz\odtwarzacz\odtwarzacz\bin\Debug\odtwarzacz.exe
+C:\Users\wikto\Desktop\Moj odtwarzacz\odtwarzacz\odtwarzacz\bin\Debug\odtwarzacz.pdb
+C:\Users\wikto\Desktop\Moj odtwarzacz\odtwarzacz\odtwarzacz\obj\Debug\odtwarzacz.csprojAssemblyReference.cache
+C:\Users\wikto\Desktop\Moj odtwarzacz\odtwarzacz\odtwarzacz\obj\Debug\MainWindow.g.cs
+C:\Users\wikto\Desktop\Moj odtwarzacz\odtwarzacz\odtwarzacz\obj\Debug\App.g.cs
+C:\Users\wikto\Desktop\Moj odtwarzacz\odtwarzacz\odtwarzacz\obj\Debug\odtwarzacz_MarkupCompile.cache
+C:\Users\wikto\Desktop\Moj odtwarzacz\odtwarzacz\odtwarzacz\obj\Debug\odtwarzacz_MarkupCompile.lref
+C:\Users\wikto\Desktop\Moj odtwarzacz\odtwarzacz\odtwarzacz\obj\Debug\MainWindow.baml
+C:\Users\wikto\Desktop\Moj odtwarzacz\odtwarzacz\odtwarzacz\obj\Debug\odtwarzacz.g.resources
+C:\Users\wikto\Desktop\Moj odtwarzacz\odtwarzacz\odtwarzacz\obj\Debug\odtwarzacz.Properties.Resources.resources
+C:\Users\wikto\Desktop\Moj odtwarzacz\odtwarzacz\odtwarzacz\obj\Debug\odtwarzacz.csproj.GenerateResource.cache
+C:\Users\wikto\Desktop\Moj odtwarzacz\odtwarzacz\odtwarzacz\obj\Debug\odtwarzacz.csproj.CoreCompileInputs.cache
+C:\Users\wikto\Desktop\Moj odtwarzacz\odtwarzacz\odtwarzacz\obj\Debug\odtwarzacz.exe
+C:\Users\wikto\Desktop\Moj odtwarzacz\odtwarzacz\odtwarzacz\obj\Debug\odtwarzacz.pdb
+C:\Users\wikto\Desktop\Moj odtwarzacz\odtwarzacz — kopia\odtwarzacz\bin\Debug\odtwarzacz.exe.config
+C:\Users\wikto\Desktop\Moj odtwarzacz\odtwarzacz — kopia\odtwarzacz\bin\Debug\odtwarzacz.exe
+C:\Users\wikto\Desktop\Moj odtwarzacz\odtwarzacz — kopia\odtwarzacz\bin\Debug\odtwarzacz.pdb
+C:\Users\wikto\Desktop\Moj odtwarzacz\odtwarzacz — kopia\odtwarzacz\obj\Debug\odtwarzacz.csprojAssemblyReference.cache
+C:\Users\wikto\Desktop\Moj odtwarzacz\odtwarzacz — kopia\odtwarzacz\obj\Debug\MainWindow.g.cs
+C:\Users\wikto\Desktop\Moj odtwarzacz\odtwarzacz — kopia\odtwarzacz\obj\Debug\App.g.cs
+C:\Users\wikto\Desktop\Moj odtwarzacz\odtwarzacz — kopia\odtwarzacz\obj\Debug\odtwarzacz_MarkupCompile.cache
+C:\Users\wikto\Desktop\Moj odtwarzacz\odtwarzacz — kopia\odtwarzacz\obj\Debug\odtwarzacz_MarkupCompile.lref
+C:\Users\wikto\Desktop\Moj odtwarzacz\odtwarzacz — kopia\odtwarzacz\obj\Debug\MainWindow.baml
+C:\Users\wikto\Desktop\Moj odtwarzacz\odtwarzacz — kopia\odtwarzacz\obj\Debug\odtwarzacz.g.resources
+C:\Users\wikto\Desktop\Moj odtwarzacz\odtwarzacz — kopia\odtwarzacz\obj\Debug\odtwarzacz.Properties.Resources.resources
+C:\Users\wikto\Desktop\Moj odtwarzacz\odtwarzacz — kopia\odtwarzacz\obj\Debug\odtwarzacz.csproj.GenerateResource.cache
+C:\Users\wikto\Desktop\Moj odtwarzacz\odtwarzacz — kopia\odtwarzacz\obj\Debug\odtwarzacz.csproj.CoreCompileInputs.cache
+C:\Users\wikto\Desktop\Moj odtwarzacz\odtwarzacz — kopia\odtwarzacz\obj\Debug\odtwarzacz.exe
+C:\Users\wikto\Desktop\Moj odtwarzacz\odtwarzacz — kopia\odtwarzacz\obj\Debug\odtwarzacz.pdb
+C:\Users\wikto\Desktop\Moj odtwarzacz\odtwarzacz — kopia\odtwarzacz\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\wikto\Desktop\Moj odtwarzacz\odtwarzacz aktualny problem z lista\odtwarzacz\bin\Debug\odtwarzacz.exe.config
+C:\Users\wikto\Desktop\Moj odtwarzacz\odtwarzacz aktualny problem z lista\odtwarzacz\bin\Debug\odtwarzacz.exe
+C:\Users\wikto\Desktop\Moj odtwarzacz\odtwarzacz aktualny problem z lista\odtwarzacz\bin\Debug\odtwarzacz.pdb
+C:\Users\wikto\Desktop\Moj odtwarzacz\odtwarzacz aktualny problem z lista\odtwarzacz\obj\Debug\odtwarzacz.csprojAssemblyReference.cache
+C:\Users\wikto\Desktop\Moj odtwarzacz\odtwarzacz aktualny problem z lista\odtwarzacz\obj\Debug\MainWindow.g.cs
+C:\Users\wikto\Desktop\Moj odtwarzacz\odtwarzacz aktualny problem z lista\odtwarzacz\obj\Debug\App.g.cs
+C:\Users\wikto\Desktop\Moj odtwarzacz\odtwarzacz aktualny problem z lista\odtwarzacz\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\wikto\Desktop\Moj odtwarzacz\odtwarzacz aktualny problem z lista\odtwarzacz\obj\Debug\odtwarzacz_MarkupCompile.cache
+C:\Users\wikto\Desktop\Moj odtwarzacz\odtwarzacz aktualny problem z lista\odtwarzacz\obj\Debug\odtwarzacz_MarkupCompile.lref
+C:\Users\wikto\Desktop\Moj odtwarzacz\odtwarzacz aktualny problem z lista\odtwarzacz\obj\Debug\MainWindow.baml
+C:\Users\wikto\Desktop\Moj odtwarzacz\odtwarzacz aktualny problem z lista\odtwarzacz\obj\Debug\odtwarzacz.g.resources
+C:\Users\wikto\Desktop\Moj odtwarzacz\odtwarzacz aktualny problem z lista\odtwarzacz\obj\Debug\odtwarzacz.Properties.Resources.resources
+C:\Users\wikto\Desktop\Moj odtwarzacz\odtwarzacz aktualny problem z lista\odtwarzacz\obj\Debug\odtwarzacz.csproj.GenerateResource.cache
+C:\Users\wikto\Desktop\Moj odtwarzacz\odtwarzacz aktualny problem z lista\odtwarzacz\obj\Debug\odtwarzacz.csproj.CoreCompileInputs.cache
+C:\Users\wikto\Desktop\Moj odtwarzacz\odtwarzacz aktualny problem z lista\odtwarzacz\obj\Debug\odtwarzacz.exe
+C:\Users\wikto\Desktop\Moj odtwarzacz\odtwarzacz aktualny problem z lista\odtwarzacz\obj\Debug\odtwarzacz.pdb
+E:\Moj odtwarzacz\odtwarzacz aktualny problem z lista\odtwarzacz\bin\Debug\odtwarzacz.exe.config
+E:\Moj odtwarzacz\odtwarzacz aktualny problem z lista\odtwarzacz\bin\Debug\odtwarzacz.exe
+E:\Moj odtwarzacz\odtwarzacz aktualny problem z lista\odtwarzacz\bin\Debug\odtwarzacz.pdb
+E:\Moj odtwarzacz\odtwarzacz aktualny problem z lista\odtwarzacz\obj\Debug\odtwarzacz.csprojAssemblyReference.cache
+E:\Moj odtwarzacz\odtwarzacz aktualny problem z lista\odtwarzacz\obj\Debug\MainWindow.g.cs
+E:\Moj odtwarzacz\odtwarzacz aktualny problem z lista\odtwarzacz\obj\Debug\App.g.cs
+E:\Moj odtwarzacz\odtwarzacz aktualny problem z lista\odtwarzacz\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\Moj odtwarzacz\odtwarzacz aktualny problem z lista\odtwarzacz\obj\Debug\odtwarzacz_MarkupCompile.cache
+E:\Moj odtwarzacz\odtwarzacz aktualny problem z lista\odtwarzacz\obj\Debug\odtwarzacz_MarkupCompile.lref
+E:\Moj odtwarzacz\odtwarzacz aktualny problem z lista\odtwarzacz\obj\Debug\MainWindow.baml
+E:\Moj odtwarzacz\odtwarzacz aktualny problem z lista\odtwarzacz\obj\Debug\odtwarzacz.g.resources
+E:\Moj odtwarzacz\odtwarzacz aktualny problem z lista\odtwarzacz\obj\Debug\odtwarzacz.Properties.Resources.resources
+E:\Moj odtwarzacz\odtwarzacz aktualny problem z lista\odtwarzacz\obj\Debug\odtwarzacz.csproj.GenerateResource.cache
+E:\Moj odtwarzacz\odtwarzacz aktualny problem z lista\odtwarzacz\obj\Debug\odtwarzacz.csproj.CoreCompileInputs.cache
+E:\Moj odtwarzacz\odtwarzacz aktualny problem z lista\odtwarzacz\obj\Debug\odtwarzacz.exe
+E:\Moj odtwarzacz\odtwarzacz aktualny problem z lista\odtwarzacz\obj\Debug\odtwarzacz.pdb
+C:\Users\wikto\Desktop\Moj odtwarzacz\od artura 20 stycznia\odtwarzacz aktualny problem z lista\odtwarzacz\bin\Debug\odtwarzacz.exe.config
+C:\Users\wikto\Desktop\Moj odtwarzacz\od artura 20 stycznia\odtwarzacz aktualny problem z lista\odtwarzacz\bin\Debug\odtwarzacz.exe
+C:\Users\wikto\Desktop\Moj odtwarzacz\od artura 20 stycznia\odtwarzacz aktualny problem z lista\odtwarzacz\bin\Debug\odtwarzacz.pdb
+C:\Users\wikto\Desktop\Moj odtwarzacz\od artura 20 stycznia\odtwarzacz aktualny problem z lista\odtwarzacz\obj\Debug\odtwarzacz.csprojAssemblyReference.cache
+C:\Users\wikto\Desktop\Moj odtwarzacz\od artura 20 stycznia\odtwarzacz aktualny problem z lista\odtwarzacz\obj\Debug\MainWindow.g.cs
+C:\Users\wikto\Desktop\Moj odtwarzacz\od artura 20 stycznia\odtwarzacz aktualny problem z lista\odtwarzacz\obj\Debug\App.g.cs
+C:\Users\wikto\Desktop\Moj odtwarzacz\od artura 20 stycznia\odtwarzacz aktualny problem z lista\odtwarzacz\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\wikto\Desktop\Moj odtwarzacz\od artura 20 stycznia\odtwarzacz aktualny problem z lista\odtwarzacz\obj\Debug\odtwarzacz_MarkupCompile.cache
+C:\Users\wikto\Desktop\Moj odtwarzacz\od artura 20 stycznia\odtwarzacz aktualny problem z lista\odtwarzacz\obj\Debug\odtwarzacz_MarkupCompile.lref
+C:\Users\wikto\Desktop\Moj odtwarzacz\od artura 20 stycznia\odtwarzacz aktualny problem z lista\odtwarzacz\obj\Debug\MainWindow.baml
+C:\Users\wikto\Desktop\Moj odtwarzacz\od artura 20 stycznia\odtwarzacz aktualny problem z lista\odtwarzacz\obj\Debug\odtwarzacz.g.resources
+C:\Users\wikto\Desktop\Moj odtwarzacz\od artura 20 stycznia\odtwarzacz aktualny problem z lista\odtwarzacz\obj\Debug\odtwarzacz.Properties.Resources.resources
+C:\Users\wikto\Desktop\Moj odtwarzacz\od artura 20 stycznia\odtwarzacz aktualny problem z lista\odtwarzacz\obj\Debug\odtwarzacz.csproj.GenerateResource.cache
+C:\Users\wikto\Desktop\Moj odtwarzacz\od artura 20 stycznia\odtwarzacz aktualny problem z lista\odtwarzacz\obj\Debug\odtwarzacz.csproj.CoreCompileInputs.cache
+C:\Users\wikto\Desktop\Moj odtwarzacz\od artura 20 stycznia\odtwarzacz aktualny problem z lista\odtwarzacz\obj\Debug\odtwarzacz.exe
+C:\Users\wikto\Desktop\Moj odtwarzacz\od artura 20 stycznia\odtwarzacz aktualny problem z lista\odtwarzacz\obj\Debug\odtwarzacz.pdb
+C:\Users\wikto\Desktop\Moj odtwarzacz\audioPlayer\audioPlayer\odtwarzacz\bin\Debug\odtwarzacz.exe.config
+C:\Users\wikto\Desktop\Moj odtwarzacz\audioPlayer\audioPlayer\odtwarzacz\bin\Debug\odtwarzacz.exe
+C:\Users\wikto\Desktop\Moj odtwarzacz\audioPlayer\audioPlayer\odtwarzacz\bin\Debug\odtwarzacz.pdb
+C:\Users\wikto\Desktop\Moj odtwarzacz\audioPlayer\audioPlayer\odtwarzacz\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\wikto\Desktop\Moj odtwarzacz\audioPlayer\audioPlayer\odtwarzacz\obj\Debug\odtwarzacz.csprojAssemblyReference.cache
+C:\Users\wikto\Desktop\Moj odtwarzacz\audioPlayer\audioPlayer\odtwarzacz\obj\Debug\MainWindow.g.cs
+C:\Users\wikto\Desktop\Moj odtwarzacz\audioPlayer\audioPlayer\odtwarzacz\obj\Debug\ProgressCircle.g.cs
+C:\Users\wikto\Desktop\Moj odtwarzacz\audioPlayer\audioPlayer\odtwarzacz\obj\Debug\App.g.cs
+C:\Users\wikto\Desktop\Moj odtwarzacz\audioPlayer\audioPlayer\odtwarzacz\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\wikto\Desktop\Moj odtwarzacz\audioPlayer\audioPlayer\odtwarzacz\obj\Debug\odtwarzacz_MarkupCompile.cache
+C:\Users\wikto\Desktop\Moj odtwarzacz\audioPlayer\audioPlayer\odtwarzacz\obj\Debug\odtwarzacz_MarkupCompile.lref
+C:\Users\wikto\Desktop\Moj odtwarzacz\audioPlayer\audioPlayer\odtwarzacz\obj\Debug\MainWindow.baml
+C:\Users\wikto\Desktop\Moj odtwarzacz\audioPlayer\audioPlayer\odtwarzacz\obj\Debug\ProgressCircle.baml
+C:\Users\wikto\Desktop\Moj odtwarzacz\audioPlayer\audioPlayer\odtwarzacz\obj\Debug\odtwarzacz.g.resources
+C:\Users\wikto\Desktop\Moj odtwarzacz\audioPlayer\audioPlayer\odtwarzacz\obj\Debug\odtwarzacz.Properties.Resources.resources
+C:\Users\wikto\Desktop\Moj odtwarzacz\audioPlayer\audioPlayer\odtwarzacz\obj\Debug\odtwarzacz.csproj.GenerateResource.cache
+C:\Users\wikto\Desktop\Moj odtwarzacz\audioPlayer\audioPlayer\odtwarzacz\obj\Debug\odtwarzacz.csproj.CoreCompileInputs.cache
+C:\Users\wikto\Desktop\Moj odtwarzacz\audioPlayer\audioPlayer\odtwarzacz\obj\Debug\odtwarzacz.csproj.CopyComplete
+C:\Users\wikto\Desktop\Moj odtwarzacz\audioPlayer\audioPlayer\odtwarzacz\obj\Debug\odtwarzacz.exe
+C:\Users\wikto\Desktop\Moj odtwarzacz\audioPlayer\audioPlayer\odtwarzacz\obj\Debug\odtwarzacz.pdb
+E:\audioPlayer\odtwarzacz\bin\Debug\odtwarzacz.exe.config
+E:\audioPlayer\odtwarzacz\bin\Debug\odtwarzacz.exe
+E:\audioPlayer\odtwarzacz\bin\Debug\odtwarzacz.pdb
+E:\audioPlayer\odtwarzacz\bin\Debug\Microsoft.Expression.Drawing.dll
+E:\audioPlayer\odtwarzacz\bin\Debug\de\Microsoft.Expression.Drawing.resources.dll
+E:\audioPlayer\odtwarzacz\bin\Debug\es\Microsoft.Expression.Drawing.resources.dll
+E:\audioPlayer\odtwarzacz\bin\Debug\fr\Microsoft.Expression.Drawing.resources.dll
+E:\audioPlayer\odtwarzacz\bin\Debug\it\Microsoft.Expression.Drawing.resources.dll
+E:\audioPlayer\odtwarzacz\bin\Debug\ja\Microsoft.Expression.Drawing.resources.dll
+E:\audioPlayer\odtwarzacz\bin\Debug\ko\Microsoft.Expression.Drawing.resources.dll
+E:\audioPlayer\odtwarzacz\bin\Debug\ru\Microsoft.Expression.Drawing.resources.dll
+E:\audioPlayer\odtwarzacz\bin\Debug\zh-Hans\Microsoft.Expression.Drawing.resources.dll
+E:\audioPlayer\odtwarzacz\bin\Debug\zh-Hant\Microsoft.Expression.Drawing.resources.dll
+E:\audioPlayer\odtwarzacz\obj\Debug\odtwarzacz.csprojAssemblyReference.cache
+E:\audioPlayer\odtwarzacz\obj\Debug\MainWindow.g.cs
+E:\audioPlayer\odtwarzacz\obj\Debug\ProgressCircle.g.cs
+E:\audioPlayer\odtwarzacz\obj\Debug\App.g.cs
+E:\audioPlayer\odtwarzacz\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\audioPlayer\odtwarzacz\obj\Debug\odtwarzacz_MarkupCompile.cache
+E:\audioPlayer\odtwarzacz\obj\Debug\odtwarzacz_MarkupCompile.lref
+E:\audioPlayer\odtwarzacz\obj\Debug\MainWindow.baml
+E:\audioPlayer\odtwarzacz\obj\Debug\ProgressCircle.baml
+E:\audioPlayer\odtwarzacz\obj\Debug\odtwarzacz.g.resources
+E:\audioPlayer\odtwarzacz\obj\Debug\odtwarzacz.Properties.Resources.resources
+E:\audioPlayer\odtwarzacz\obj\Debug\odtwarzacz.csproj.GenerateResource.cache
+E:\audioPlayer\odtwarzacz\obj\Debug\odtwarzacz.csproj.CoreCompileInputs.cache
+E:\audioPlayer\odtwarzacz\obj\Debug\odtwarzacz.csproj.CopyComplete
+E:\audioPlayer\odtwarzacz\obj\Debug\odtwarzacz.exe
+E:\audioPlayer\odtwarzacz\obj\Debug\odtwarzacz.pdb
+C:\Users\wikto\Desktop\dzialajacy audioPlayer na 28.02.2020\audioPlayer\odtwarzacz\bin\Debug\odtwarzacz.exe.config
+C:\Users\wikto\Desktop\dzialajacy audioPlayer na 28.02.2020\audioPlayer\odtwarzacz\bin\Debug\odtwarzacz.exe
+C:\Users\wikto\Desktop\dzialajacy audioPlayer na 28.02.2020\audioPlayer\odtwarzacz\bin\Debug\odtwarzacz.pdb
+C:\Users\wikto\Desktop\dzialajacy audioPlayer na 28.02.2020\audioPlayer\odtwarzacz\bin\Debug\de\Microsoft.Expression.Drawing.resources.dll
+C:\Users\wikto\Desktop\dzialajacy audioPlayer na 28.02.2020\audioPlayer\odtwarzacz\bin\Debug\es\Microsoft.Expression.Drawing.resources.dll
+C:\Users\wikto\Desktop\dzialajacy audioPlayer na 28.02.2020\audioPlayer\odtwarzacz\bin\Debug\fr\Microsoft.Expression.Drawing.resources.dll
+C:\Users\wikto\Desktop\dzialajacy audioPlayer na 28.02.2020\audioPlayer\odtwarzacz\bin\Debug\it\Microsoft.Expression.Drawing.resources.dll
+C:\Users\wikto\Desktop\dzialajacy audioPlayer na 28.02.2020\audioPlayer\odtwarzacz\bin\Debug\ja\Microsoft.Expression.Drawing.resources.dll
+C:\Users\wikto\Desktop\dzialajacy audioPlayer na 28.02.2020\audioPlayer\odtwarzacz\bin\Debug\ko\Microsoft.Expression.Drawing.resources.dll
+C:\Users\wikto\Desktop\dzialajacy audioPlayer na 28.02.2020\audioPlayer\odtwarzacz\bin\Debug\ru\Microsoft.Expression.Drawing.resources.dll
+C:\Users\wikto\Desktop\dzialajacy audioPlayer na 28.02.2020\audioPlayer\odtwarzacz\bin\Debug\zh-Hans\Microsoft.Expression.Drawing.resources.dll
+C:\Users\wikto\Desktop\dzialajacy audioPlayer na 28.02.2020\audioPlayer\odtwarzacz\bin\Debug\zh-Hant\Microsoft.Expression.Drawing.resources.dll
+C:\Users\wikto\Desktop\dzialajacy audioPlayer na 28.02.2020\audioPlayer\odtwarzacz\obj\Debug\odtwarzacz.csprojAssemblyReference.cache
+C:\Users\wikto\Desktop\dzialajacy audioPlayer na 28.02.2020\audioPlayer\odtwarzacz\obj\Debug\MainWindow.g.cs
+C:\Users\wikto\Desktop\dzialajacy audioPlayer na 28.02.2020\audioPlayer\odtwarzacz\obj\Debug\ProgressCircle.g.cs
+C:\Users\wikto\Desktop\dzialajacy audioPlayer na 28.02.2020\audioPlayer\odtwarzacz\obj\Debug\App.g.cs
+C:\Users\wikto\Desktop\dzialajacy audioPlayer na 28.02.2020\audioPlayer\odtwarzacz\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\wikto\Desktop\dzialajacy audioPlayer na 28.02.2020\audioPlayer\odtwarzacz\obj\Debug\odtwarzacz_MarkupCompile.cache
+C:\Users\wikto\Desktop\dzialajacy audioPlayer na 28.02.2020\audioPlayer\odtwarzacz\obj\Debug\odtwarzacz_MarkupCompile.lref
+C:\Users\wikto\Desktop\dzialajacy audioPlayer na 28.02.2020\audioPlayer\odtwarzacz\obj\Debug\MainWindow.baml
+C:\Users\wikto\Desktop\dzialajacy audioPlayer na 28.02.2020\audioPlayer\odtwarzacz\obj\Debug\ProgressCircle.baml
+C:\Users\wikto\Desktop\dzialajacy audioPlayer na 28.02.2020\audioPlayer\odtwarzacz\obj\Debug\odtwarzacz.g.resources
+C:\Users\wikto\Desktop\dzialajacy audioPlayer na 28.02.2020\audioPlayer\odtwarzacz\obj\Debug\odtwarzacz.Properties.Resources.resources
+C:\Users\wikto\Desktop\dzialajacy audioPlayer na 28.02.2020\audioPlayer\odtwarzacz\obj\Debug\odtwarzacz.csproj.GenerateResource.cache
+C:\Users\wikto\Desktop\dzialajacy audioPlayer na 28.02.2020\audioPlayer\odtwarzacz\obj\Debug\odtwarzacz.csproj.CoreCompileInputs.cache
+C:\Users\wikto\Desktop\dzialajacy audioPlayer na 28.02.2020\audioPlayer\odtwarzacz\obj\Debug\odtwarzacz.csproj.CopyComplete
+C:\Users\wikto\Desktop\dzialajacy audioPlayer na 28.02.2020\audioPlayer\odtwarzacz\obj\Debug\odtwarzacz.exe
+C:\Users\wikto\Desktop\dzialajacy audioPlayer na 28.02.2020\audioPlayer\odtwarzacz\obj\Debug\odtwarzacz.pdb
+C:\Users\wikto\Desktop\Praca domowa\audioPlayer\odtwarzacz\bin\Debug\odtwarzacz.exe.config
+C:\Users\wikto\Desktop\Praca domowa\audioPlayer\odtwarzacz\bin\Debug\odtwarzacz.exe
+C:\Users\wikto\Desktop\Praca domowa\audioPlayer\odtwarzacz\bin\Debug\odtwarzacz.pdb
+C:\Users\wikto\Desktop\Praca domowa\audioPlayer\odtwarzacz\bin\Debug\de\Microsoft.Expression.Drawing.resources.dll
+C:\Users\wikto\Desktop\Praca domowa\audioPlayer\odtwarzacz\bin\Debug\es\Microsoft.Expression.Drawing.resources.dll
+C:\Users\wikto\Desktop\Praca domowa\audioPlayer\odtwarzacz\bin\Debug\fr\Microsoft.Expression.Drawing.resources.dll
+C:\Users\wikto\Desktop\Praca domowa\audioPlayer\odtwarzacz\bin\Debug\it\Microsoft.Expression.Drawing.resources.dll
+C:\Users\wikto\Desktop\Praca domowa\audioPlayer\odtwarzacz\bin\Debug\ja\Microsoft.Expression.Drawing.resources.dll
+C:\Users\wikto\Desktop\Praca domowa\audioPlayer\odtwarzacz\bin\Debug\ko\Microsoft.Expression.Drawing.resources.dll
+C:\Users\wikto\Desktop\Praca domowa\audioPlayer\odtwarzacz\bin\Debug\ru\Microsoft.Expression.Drawing.resources.dll
+C:\Users\wikto\Desktop\Praca domowa\audioPlayer\odtwarzacz\bin\Debug\zh-Hans\Microsoft.Expression.Drawing.resources.dll
+C:\Users\wikto\Desktop\Praca domowa\audioPlayer\odtwarzacz\bin\Debug\zh-Hant\Microsoft.Expression.Drawing.resources.dll
+C:\Users\wikto\Desktop\Praca domowa\audioPlayer\odtwarzacz\obj\Debug\odtwarzacz.csprojAssemblyReference.cache
+C:\Users\wikto\Desktop\Praca domowa\audioPlayer\odtwarzacz\obj\Debug\MainWindow.g.cs
+C:\Users\wikto\Desktop\Praca domowa\audioPlayer\odtwarzacz\obj\Debug\ProgressCircle.g.cs
+C:\Users\wikto\Desktop\Praca domowa\audioPlayer\odtwarzacz\obj\Debug\App.g.cs
+C:\Users\wikto\Desktop\Praca domowa\audioPlayer\odtwarzacz\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\wikto\Desktop\Praca domowa\audioPlayer\odtwarzacz\obj\Debug\odtwarzacz_MarkupCompile.cache
+C:\Users\wikto\Desktop\Praca domowa\audioPlayer\odtwarzacz\obj\Debug\odtwarzacz_MarkupCompile.lref
+C:\Users\wikto\Desktop\Praca domowa\audioPlayer\odtwarzacz\obj\Debug\MainWindow.baml
+C:\Users\wikto\Desktop\Praca domowa\audioPlayer\odtwarzacz\obj\Debug\ProgressCircle.baml
+C:\Users\wikto\Desktop\Praca domowa\audioPlayer\odtwarzacz\obj\Debug\odtwarzacz.g.resources
+C:\Users\wikto\Desktop\Praca domowa\audioPlayer\odtwarzacz\obj\Debug\odtwarzacz.Properties.Resources.resources
+C:\Users\wikto\Desktop\Praca domowa\audioPlayer\odtwarzacz\obj\Debug\odtwarzacz.csproj.GenerateResource.cache
+C:\Users\wikto\Desktop\Praca domowa\audioPlayer\odtwarzacz\obj\Debug\odtwarzacz.csproj.CoreCompileInputs.cache
+C:\Users\wikto\Desktop\Praca domowa\audioPlayer\odtwarzacz\obj\Debug\odtwarzacz.csproj.CopyComplete
+C:\Users\wikto\Desktop\Praca domowa\audioPlayer\odtwarzacz\obj\Debug\odtwarzacz.exe
+C:\Users\wikto\Desktop\Praca domowa\audioPlayer\odtwarzacz\obj\Debug\odtwarzacz.pdb
